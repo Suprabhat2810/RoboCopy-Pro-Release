@@ -24,7 +24,7 @@ This repository contains **public releases only** — the source code is private
 
 ### Latest Version: **v1.0.0**
 
-👉 **[Download RoboCopy Pro (.exe)](./RoboCopy.Pro.exe)**  
+👉 **[Download RoboCopy Pro (.exe)](https://github.com/Suprabhat2810/robo-copy/releases/download/v1.0.0/RoboCopyPro-Setup.exe)**
 *(Direct download from releases section)*
 
 ---
